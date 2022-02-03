@@ -3,7 +3,7 @@ Name: Lifang Yan
 Date: 3-13-20
 Course: CS344 - Operating System
 Assignment: OTP
-Description: his file is used to generate a random key for encrypt message 
+Description: This file is used to generate a random key for encrypt message 
 within this key, 27 characters are included, which are capalized A to Z
 and space character. Use rand() to get ascii code corresponding dec from 64 to 90
 which 64 corresponds to space
